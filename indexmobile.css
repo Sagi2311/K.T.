@@ -1,0 +1,214 @@
+@media screen and (max-width:500px) {
+    header {
+        position: static;
+        height: 59px;
+    }
+
+
+
+
+    li {
+        display: none;
+    }
+
+    .stage1 {
+        top: 26px;
+        left: 18px;
+        gap: 130px;
+        width: 302px;
+    }
+
+    .div6 {
+        margin-top: 215px;
+        gap: 20px;
+    }
+
+    .img1 {
+        width: 36%;
+        height: 99px;
+
+    }
+
+    .div1 {
+        gap: 6px;
+        width: 280px;
+    }
+
+    .stage1forwidth {
+        width: 280px;
+        line-height: 22px;
+
+    }
+
+    .div3 {
+        gap: 55px;
+        width: 302px;
+    }
+
+    .div4 {
+        width: 200px;
+        gap: 0px;
+        justify-content: flex-end;
+    }
+
+    .forviewga {
+        position: relative;
+
+        top: 16px;
+    }
+
+    /* .forviewmargintop{
+        margin-top: 20px;
+    } */
+
+    .img2 {
+        width: 300px;
+        height: 220px;
+    }
+
+    .div8 {
+        gap: 0px;
+        flex-direction: column;
+        align-items: flex-end;
+        margin-top: 0px;
+        gap: 25px;
+    }
+
+    .div9 {
+        flex-direction: row;
+        gap: 10px;
+        width: 100%;
+        justify-content: center;
+        margin-top: 34px;
+    }
+
+    .fornamegap {
+        gap: 0px;
+    }
+
+    .fortextwi {
+        width: 135px;
+    }
+
+    .fortextwi1 {
+        width: 170px;
+    }
+
+    .fortextwi2 {
+        width: 150px;
+    }
+
+    .span1 {
+        transform: none;
+    }
+
+    .div10 {
+        margin: 0px;
+        margin: 20px;
+        gap: 20px;
+    }
+
+    .forwidth1 {
+        width: 275px;
+    }
+
+    .fortest {
+        width: 40px;
+        height: 33px;
+    }
+
+    .forstyle2 {
+        margin-top: 34px;
+    }
+
+    .forviewallgames {
+        display: flex;
+        align-items: center;
+        gap: 0px;
+        margin: 35px 5px 54px 0px;
+    }
+
+    .fordiffont {
+        font-size: 20px;
+    }
+
+    .forviewwidth {
+        width: 40px;
+        height: 33px;
+        margin-left: 20px;
+    }
+
+    .div13 {
+        flex-direction: column;
+        align-items: center;
+        gap: 137px;
+
+    }
+
+    .mainimg1 {
+        background-size: cover;
+        height: 381px;
+        width: 286px;
+    }
+
+    .mainimg2 {
+        background-size: cover;
+        height: 381px;
+        width: 286px;
+    }
+
+
+    .mainimg3 {
+        background-size: cover;
+        height: 381px;
+        width: 286px;
+    }
+
+    .formargin1 {
+        margin-top: 402px;
+    }
+
+    .div14 {
+        margin: 160px 20px 0px 0px;
+    }
+
+    .fordiffont2 {
+        font-size: 17.2px;
+    }
+
+    .footnav {
+        flex-direction: column;
+        align-items: center;
+        gap: 34px;
+    }
+
+    .footnav {
+        margin: 40px 38px;
+    }
+
+    .div15 {
+        flex-direction: column-reverse;
+        margin-top: 20px;
+        gap: 90px;
+        align-items: center;
+    }
+
+
+    .fa-bars {
+        position: relative;
+        top: -52px;
+        right: -60px;
+        visibility: visible;
+    }
+
+    .head1 {
+        margin-left: 23px;
+        font-weight: bolder;
+    }
+
+
+
+
+
+
+}

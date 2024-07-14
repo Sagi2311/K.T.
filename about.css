@@ -1,0 +1,289 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: none;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #010127;
+    align-items: center;
+    height: 89px;
+    color: white;
+    top: 0;
+    border-bottom: 1px solid white;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+.head1 {
+    margin: 53px;
+    cursor: pointer;
+    font-weight: bolder;
+
+}
+
+.fordis {
+    visibility: hidden;
+}
+
+body {
+    background-color: #010127;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+header ul {
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    margin: 53px;
+
+}
+
+.forcolor {
+    color: #C9FE00;
+}
+
+a {
+    transition: 0.4s;
+}
+
+img {
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+}
+
+.div2 {
+    position: relative;
+    top: 120px;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid white;
+    gap: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 148px;
+    padding-bottom: 44px;
+}
+
+.div2 span {
+    margin-left: 11px;
+}
+
+.forstyle {
+    height: 1px;
+    width: 100%;
+    background-color: white;
+}
+
+.div3 {
+    display: flex;
+    margin: 30px 40px 50px 40px;
+    gap: 549px;
+
+}
+
+.div4 {
+    display: flex;
+    flex-direction: column;
+    width: 510px;
+    gap: 26px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.forlineheight {
+    line-height: 25px;
+}
+
+.div5 {
+    display: flex;
+    margin-top: 40px;
+    gap: 18.4%;
+    margin-left: 102px;
+}
+
+.div6 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 50px;
+}
+
+.forstyle3 {
+    width: 100%;
+    height: 1px;
+    background-color: white;
+    margin-top: 6px;
+}
+
+
+.div7 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 70px;
+
+}
+
+.div8 {
+    display: flex;
+    gap: 25px;
+}
+
+.style1 {
+    height: 271px;
+    width: 1px;
+    background-color: white;
+
+}
+
+.div9 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.div10 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.forstyle1 {
+    height: 1px;
+    width: 100%;
+    background-color: white;
+    margin-top: 40px;
+}
+
+.maindiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 72px;
+    margin-top: 80px;
+}
+
+
+.main1 {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 53px;
+}
+
+form div div {
+    display: flex;
+    flex-direction: column;
+}
+
+form div {
+    display: flex;
+    flex-direction: row;
+
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: #010127;
+    width: 430px;
+    height: 29px;
+    padding: 3px 3px 3px 7px;
+    outline: none;
+}
+
+input:hover {
+    border-bottom: 1px solid #CAFF00;
+}
+
+.main2 {
+    gap: 50px;
+}
+
+#massage {
+    padding: 10.5px 10px 3px 7px;
+    width: 904px;
+    height: 85.5px;
+}
+
+.main3 {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 227px;
+    height: 51px;
+    border-radius: 30px;
+    background-color: #010127;
+    border: 1px solid white;
+    align-self: center;
+    font-size: 15px;
+    transition: 0.7s;
+}
+
+button:hover {
+    background-color: #CAFF00;
+    color: #010127;
+    transition: 0.7s;
+    cursor: pointer;
+}
+
+label {
+    font-size: 13px;
+}
+
+
+
+.footnav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 44.5px;
+}
+
+.div15 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+    margin-left: 44.5px;
+    margin-right: 44.5px;
+}
+
+footer {
+    padding-bottom: 23px;
+}
+
+.forstyle2 {
+    width: 100%;
+    height: 1px;
+    background-color: white;
+    margin-top: 126px;
+}
+
+.mainhead {
+    margin-bottom: 500px;
+}
+
+.italic {
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}

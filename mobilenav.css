@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: none;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+
+}
+
+body {
+    background-color: #010127;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    font-weight: bolder;
+    gap: 35px;
+    align-items: center;
+    list-style-type: none;
+    margin-top: 105px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+i {
+    margin-left: 276px;
+    margin-top: 30px;
+}

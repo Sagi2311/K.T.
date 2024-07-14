@@ -1,0 +1,98 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: none;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+@media screen and (max-width:500px) {
+
+    header {
+        position: static;
+        height: 59px;
+    }
+
+
+    .main {
+        align-items: center;
+    }
+
+    li {
+        display: none;
+    }
+
+    .div1 {
+        top: -10px;
+        height: 95px;
+    }
+
+    .forstylecha {
+        margin-top: 18px;
+    }
+
+
+    .stage1 {
+        flex-direction: column;
+        gap: 134px;
+    }
+
+    .main {
+        gap: 134px;
+        margin-top: 41px;
+    }
+
+    .img6,
+    .img5,
+    .img4,
+    .img3,
+    .img2,
+    .img1 {
+        width: 280.6px;
+        height: 157px;
+        gap: 12;
+        background-size: cover;
+    }
+
+    .imgmargin {
+        margin-top: 181px;
+    }
+
+    .footnav {
+        flex-direction: column;
+        align-items: center;
+        gap: 34px;
+    }
+
+    .footnav {
+        margin: 40px 38px;
+    }
+
+    .div15 {
+        flex-direction: column-reverse;
+        margin-top: 20px;
+        gap: 90px;
+        align-items: center;
+    }
+
+    .forarrow {
+        margin-right: 10px;
+        height: 15px;
+        width: 15px;
+    }
+
+    .fa-bars {
+        position: relative;
+        top: -52px;
+        right: -60px;
+        visibility: visible;
+    }
+
+    .head1 {
+        margin-left: 23px;
+    }
+
+
+
+}

@@ -1,0 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: none;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+.forcolor {
+    background-color: #010127;
+}
+
+.first {
+    display: flex;
+    margin: 60px;
+    justify-content: flex-end;
+}
+
+.fa-solid{
+    cursor: pointer;
+}
+
+.carousel {
+    width: 1250px !important;
+
+}
+
+.second {
+    display: flex;
+    justify-content: center;
+}
+
+.italic {
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.carousel-control-next-icon {
+    position: relative;
+    left: 150px;
+    color: white;
+}
+
+.carousel-control-prev-icon {
+    position: relative;
+    right: 150px;
+    color: white;
+}

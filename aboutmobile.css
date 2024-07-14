@@ -1,0 +1,127 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: none;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+@media screen and (max-width:500px) {
+
+    img {
+        width: 290px;
+
+    }
+
+    .div2 {
+        margin: 0px;
+        top: 20px;
+        padding-bottom: 15px;
+    }
+
+    .div3 {
+        gap: 25px;
+        flex-direction: column;
+        margin: 0px;
+        margin-top: 2px;
+        align-items: flex-end;
+    }
+
+    .div4 {
+        width: 300px;
+
+    }
+
+    .div4 span {
+        line-height: 20px;
+    }
+
+    .forlineheight {
+        line-height: 20px;
+    }
+
+    .div5 {
+        flex-direction: column;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .div6 {
+        margin-top: 21px;
+        padding-bottom: 18px;
+        margin-left: 20px;
+    }
+
+    .fotstyle3 {
+        margin-top: 10px;
+
+    }
+
+    .style1 {
+        display: none;
+    }
+
+    .forstyle4 {
+        width: 100%;
+        height: 1px;
+        background-color: white;
+    }
+
+    .div8 {
+        padding-top: 18px;
+        margin-left: 20px;
+    }
+
+    .forstyle1 {
+        margin: -33px;
+        margin-left: 0px;
+    }
+
+    .main2 {
+        flex-direction: column;
+    }
+
+    input {
+        width: 258px;
+        height: 30px;
+    }
+
+    form {
+        width: 320px;
+        align-items: center;
+        gap: 9px;
+    }
+
+    .main2 {
+        gap: 9px;
+    }
+
+    .formobile {
+        text-align: center;
+    }
+
+    label {
+        font-size: 16px;
+    }
+
+    #massage {
+        width: 260px;
+        height: 66px;
+    }
+
+    button {
+        width: 260px;
+        height: 42px;
+        margin-top: 15px;
+    }
+
+    .forstyle2 {
+        margin-top: 95px;
+    }
+
+
+
+
+
+}

@@ -1,0 +1,58 @@
+@media screen and (max-width:500px) {
+
+    .forimg6,
+    .forimg5,
+    .forimg4,
+    .forimg3,
+    .forimg2,
+    .forimg1,
+    .forimg,
+    .forimg7,
+    .forimg8,
+    .forimg9,
+    .forimg10,
+    .forimg11,
+    .forimg12 {
+        height: 161px;
+        background-size: cover;
+        width: 286px;
+    }
+
+    .main1 {
+        align-items: center;
+        gap: 135px;
+        margin-top: 32px;
+    }
+
+    .main2 {
+        flex-direction: column;
+        gap: 135px;
+    }
+
+    .imgmargin {
+        margin-top: 181px;
+    }
+
+    .main2 div {
+        gap: 16px;
+    }
+
+    .forstyle2 {
+        margin-top: 131px;
+    }
+
+    .div2 {
+        margin-left: 19px;
+        position: relative;
+
+
+    }
+
+    .div1 {
+        top: -10px;
+    }
+
+    .forstylecha {
+        margin-top: 18px;
+    }
+}

@@ -1,0 +1,282 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: none;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+.italic {
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #010127;
+    align-items: center;
+    height: 89px;
+    color: white;
+    top: 0;
+    border-bottom: 1px solid white;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+.head1 {
+    margin: 53px;
+    cursor: pointer;
+    font-weight: bolder;
+
+}
+
+body {
+    background-color: #010127;
+}
+
+header ul {
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    margin: 53px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.div1 {
+    font-size: 70px;
+    position: relative;
+    top: 137px;
+    color: white;
+    height: 114px;
+}
+
+.forstylecha {
+    width: 100%;
+    height: 1px;
+    background-color: white;
+    margin-top: 34px;
+}
+
+.div2 {
+    margin-left: 50px;
+}
+
+.main1 {
+
+    display: flex;
+    flex-direction: column;
+    gap: 221px;
+    margin-top: 194px;
+}
+
+.main2 {
+    display: flex;
+    justify-content: center;
+    gap: 42px;
+    cursor: default;
+}
+
+.main2 div {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+
+
+.forimg {
+    height: 495.56px;
+    width: 882px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_cb6e4bb6822642a880f1f5623ad227e1~mv2.png/v1/fill/w_882,h_496,q_90/c837a6_cb6e4bb6822642a880f1f5623ad227e1~mv2.png);
+}
+
+.forimg:hover {
+    height: 495.56px;
+    width: 882px;
+    background-image: url(./img/katanna2.png);
+    transition: 0.9s;
+}
+
+.forimg2 {
+    height: 495.56px;
+    width: 881px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_0b3e8485492d4a22b5e7c600c0009184~mv2.png/v1/fill/w_881,h_496,q_90/c837a6_0b3e8485492d4a22b5e7c600c0009184~mv2.png);
+}
+
+.forimg2:hover {
+    background-image: url(./img/android13.png);
+    transition: 0.9s;
+}
+
+.forimg3 {
+    height: 495.56px;
+    width: 882px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_7bae809f132b4135990220ecc95cf03d~mv2.png/v1/fill/w_882,h_496,q_90/c837a6_7bae809f132b4135990220ecc95cf03d~mv2.png);
+}
+
+.forimg3:hover {
+    background-image: url(./img/flamedragon.png);
+    transition: 0.9s;
+}
+
+.forimg4 {
+    height: 495.56px;
+    width: 881px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_ec718111175b414281933fa8db029f9b~mv2.png/v1/fill/w_881,h_496,q_90/c837a6_ec718111175b414281933fa8db029f9b~mv2.png);
+}
+
+.forimg4:hover {
+    background-image: url(./img/the\ scarlet.png);
+    transition: 0.9s;
+}
+
+.forimg5 {
+    height: 495.56px;
+    width: 882px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_651ad5dd3d904264ae990a52469a2c41~mv2.png/v1/fill/w_882,h_496,q_90/c837a6_651ad5dd3d904264ae990a52469a2c41~mv2.png);
+}
+
+.forimg5:hover {
+    background-image: url(./img/toki1.png);
+    transition: 0.9s;
+}
+
+.forimg6 {
+    height: 495.56px;
+    width: 881px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_4adb310607854e11b1202a4aa7a99f25~mv2.png/v1/fill/w_881,h_496,q_90/c837a6_4adb310607854e11b1202a4aa7a99f25~mv2.png);
+}
+
+.forimg6:hover {
+    background-image: url(./img/dragon.png);
+    transition: 0.9s;
+}
+
+.forimg7 {
+    height: 495.56px;
+    width: 882px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_57385fd144024cca9d1abdc12bba06b0~mv2.jpg/v1/fill/w_882,h_496,q_90/c837a6_57385fd144024cca9d1abdc12bba06b0~mv2.jpg);
+}
+
+.forimg7:hover {
+    background-image: url(./img/soldier\ 1.png);
+    transition: 0.9s;
+}
+
+.forimg8 {
+    height: 495.56px;
+    width: 881px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_a4b6623f5a9143d28a34aa78f4e63041~mv2.jpg/v1/fill/w_881,h_496,q_90/c837a6_a4b6623f5a9143d28a34aa78f4e63041~mv2.jpg);
+}
+
+.forimg8:hover {
+    background-image: url(./img/soldier2.png);
+    transition: 0.9s;
+}
+
+.forimg9 {
+    height: 495.56px;
+    width: 882px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_a7160e48fedf42baafd2cdcc7c5f2b48~mv2.jpg/v1/fill/w_882,h_496,q_90/c837a6_a7160e48fedf42baafd2cdcc7c5f2b48~mv2.jpg);
+}
+
+.forimg9:hover {
+    background-image: url(img/driver\ front.png);
+    transition: 0.9s;
+}
+
+.forimg10 {
+    height: 495.56px;
+    width: 881px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_f290e49f4b4f4c93aa76a8ece8dd3ba5~mv2.jpg/v1/fill/w_881,h_496,q_90/c837a6_f290e49f4b4f4c93aa76a8ece8dd3ba5~mv2.jpg);
+}
+
+.forimg10:hover {
+    background-image: url(img/driver\ back.png);
+    transition: 0.9s;
+}
+
+.forimg11 {
+    height: 495.56px;
+    width: 882px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_8b6392a071b94deba7d565b6822414dd~mv2.png/v1/fill/w_882,h_496,q_90/c837a6_8b6392a071b94deba7d565b6822414dd~mv2.png);
+}
+
+.forimg11:hover {
+    background-image: url(img/zord2.png);
+    transition: 0.9s;
+}
+
+.forimg12 {
+    height: 495.56px;
+    width: 881px;
+    border-radius: 22px;
+    transition: 0.9s;
+    background-image: url(https://static.wixstatic.com/media/c837a6_d16771034a6a4bc1b8313f58d48c9fda~mv2.png/v1/fill/w_881,h_496,q_90/c837a6_d16771034a6a4bc1b8313f58d48c9fda~mv2.png);
+}
+
+.forimg12:hover {
+    background-image: url(img/x\ weapon.png);
+    transition: 0.9s;
+}
+
+.imgmargin {
+    margin-top: 524px;
+}
+
+.footnav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 44.5px;
+}
+
+.div15 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+    margin-left: 44.5px;
+    margin-right: 44.5px;
+}
+
+footer {
+    padding-bottom: 23px;
+}
+
+.forstyle2 {
+    height: 1px;
+    width: 100%;
+    background-color: white;
+    margin-top: 183px;
+}

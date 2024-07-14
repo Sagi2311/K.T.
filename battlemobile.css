@@ -1,0 +1,106 @@
+@media screen and (max-width:500px) {
+
+    .img1,
+    img,
+    .leftimg,
+    .rightimg {
+        width: 280px;
+        height: 157px;
+    }
+
+    .marginfor50px {
+        margin-left: 20px;
+    }
+
+    .main2 {
+        margin-top: 142px;
+        flex-direction: column;
+        margin-left: 0px;
+    }
+
+    .div1 {
+        margin-left: 20px;
+        width: 300px;
+    }
+
+    .main1 {
+        top: 22px;
+    }
+
+    .forstyle {
+        margin-top: 12px;
+    }
+
+    .forstage1 {
+        width: 280px;
+    }
+
+    .forstyle2 {
+        width: 100%;
+        height: 1px;
+        margin-top: 100px;
+    }
+
+    .div2 {
+        flex-direction: column;
+        width: 320px;
+        height: auto;
+
+    }
+
+    .div3 {
+        flex-direction: row;
+    }
+
+
+    .forstyle4 {
+        margin-top: 50px;
+    }
+
+    .div6 {
+        flex-direction: column;
+        margin-left: 23px;
+        gap: 25px;
+    }
+
+    .div7 {
+        margin-top: 26px;
+        gap: 16px;
+    }
+
+    .div8 {
+        gap: 16px;
+    }
+
+    .div7 span {
+        margin-left: 20px;
+    }
+
+    .div8 span {
+        margin-left: 20px;
+    }
+
+    .img1 {
+        margin: 26px 20px;
+    }
+
+    .main3 {
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 45px;
+        gap: 84px;
+    }
+
+    .main3 div {
+        gap: 22px;
+    }
+
+    .forpn {
+        margin: 0px 10px 0px 10px;
+    }
+
+    .forposition {
+        top: 174px;
+    }
+
+}
